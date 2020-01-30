@@ -1,5 +1,6 @@
 ﻿//write include statements
-include<iostream>//use standard library
+#include<iostream>//use standard library
+#include"expressions.h"
 
 //write namespace using statement for cout
 using std::cout;
